@@ -73,7 +73,9 @@ $products = $stmt->fetchAll();
         <div class="container">
             <p>© 2026 Bruv Burger Boksburg. Halal Certified.</p>
             <p>BP Filling Station, North Rand Rd | Open Daily 10:30 - 21:30</p>
+            <!-- Subtle staff link -->
+            <p style="margin-top: 15px; font-size: 11px; opacity: 0.5;">
+                <a href="admin/login.php" style="color: #8ba0b8; text-decoration: none;">Staff Portal</a>
+            </p>
         </div>
     </footer>
-</body>
-</html>
