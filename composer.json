@@ -1,0 +1,8 @@
+{
+  "name": "bruv-burger/app",
+  "require": {
+    "php": ">=8.2",
+    "ext-pdo": "*",
+    "ext-pdo_mysql": "*"
+  }
+}
